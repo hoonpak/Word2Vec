@@ -24,6 +24,17 @@ Below are the experimental results corresponding to hyperparameter tuning for th
 - **train.py** : Training process
 - **utiles.py**: Preprocessing, Measure, etc.
 
+### Detail about Hierarchical Softmax Word2Vec
+![Alt text](./img/hierarchical_softmax1.JPG)
+![Alt text](./img/hierarchical_softmax2.JPG)
+![Alt text](./img/hierarchical_softmax3.JPG)
+![Alt text](./img/hierarchical_softmax4.JPG)
+![Alt text](./img/hierarchical_softmax5.JPG)
+![Alt text](./img/hierarchical_softmax6.JPG)
+![Alt text](./img/hierarchical_softmax7.JPG)
+![Alt text](./img/hierarchical_softmax8.JPG)
+
+
 ## Development Environment
 - OS: Ubuntu 18.04.5 LTS (64bit)
 - Language: Python 3.10.13
