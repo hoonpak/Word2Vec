@@ -34,6 +34,11 @@ Below are the experimental results corresponding to hyperparameter tuning for th
 ![Alt text](./img/hierarchical_softmax7.JPG)
 ![Alt text](./img/hierarchical_softmax8.JPG)
 
+## Training Dataset
+["One Billion Word Benchmark for Measuring Progress in Statistical Language Modeling"](https://github.com/ciprian-chelba/1-billion-word-language-modeling-benchmark)
+
+    wget http://www.statmt.org/lm-benchmark/1-billion-word-language-modeling-benchmark-r13output.tar.gz
+    tar -xvf 1-billion-word-language-modeling-benchmark-r13output.tar.gz
 
 ## Development Environment
 - OS: Ubuntu 18.04.5 LTS (64bit)
