@@ -191,3 +191,4 @@ class NO_LOSS_HS_Skipgram:
                 
             self.W_in[c] += dh1
         return None
+    
